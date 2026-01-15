@@ -1,45 +1,34 @@
-# Agrovia
+# 🌾 AgroVia
 
 **Farm-to-Retail Freshness Tracking Platform**
 
-Agrovia is a comprehensive solution designed to track produce freshness from farm to retail. By leveraging QR codes, quality grading, and expiry prediction, we aim to reduce food waste and build consumer trust in the food supply chain.
+AgroVia is a comprehensive solution designed to track produce freshness from farm to retail. By leveraging QR codes, quality grading, and expiry prediction, we aim to **reduce food waste** and **build consumer trust** in the food supply chain.
 
-## Key Features
+---
 
-- **Farm-to-Retail Tracking**: Monitor the journey of produce from the source to the shelf.
-- **Quality Grading**: Automated and standardized grading to ensure produce quality.
-- **Expiry Prediction**: AI-driven insights to predict shelf life and reduce spoilage.
-- **Consumer Transparency**: QR codes allow consumers to verify the origin and quality of their food.
+## 🚀 Key Features
 
-## Tech Stack
+- **🌱 Farm-to-Retail Tracking**: Monitor the journey of produce from the farm to the shelf.  
+- **✅ Quality Grading**: Automated and standardized grading ensures consistent produce quality.  
+- **📊 Expiry Prediction**: AI-driven insights predict shelf life and reduce spoilage.  
+- **🔍 Consumer Transparency**: QR codes allow consumers to verify origin and quality.
 
-This project is built using modern web technologies:
+---
 
-- **Vite**: Next-generation frontend tooling.
-- **TypeScript**: Typed superset of JavaScript for better code quality.
-- **React**: Library for building user interfaces.
-- **shadcn-ui**: Reusable components built with Radix UI and Tailwind CSS.
-- **Tailwind CSS**: Utility-first CSS framework for styling.
+## 🛠️ Tech Stack
 
-## Getting Started
+This project uses **modern frontend technologies**:
 
-To run this project locally:
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) **Vite** – Next-generation frontend tooling  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) **TypeScript** – Typed superset of JavaScript  
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) **React** – UI library  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) **Tailwind CSS** – Utility-first CSS framework  
+- **shadcn-ui** – Reusable components built with Radix UI and Tailwind
 
-1.  **Clone the repository**:
-    ```sh
-    git clone <YOUR_GIT_URL>
-    ```
+---
 
-2.  **Install dependencies**:
-    ```sh
-    npm install
-    ```
+## ⚡ Getting Started
 
-3.  **Start the development server**:
-    ```sh
-    npm run dev
-    ```
-
-## deployment
-
-This project is deployed on GitHub Pages.
+1. **Clone the repository**:
+```sh
+git clone https://github.com/AnushkaT-03/AgroVia-Main.git
